@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB4B4A80-3EAC-4332-825F-A777A5DFA5B4}|Exerc\u00EDcio 8\\Exerc\u00EDcio 8.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4B4A80-3EAC-4332-825F-A777A5DFA5B4}|Exerc\u00EDcio 8\\Exerc\u00EDcio 8.csproj|solutionrelative:exerc\u00EDcio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CA8B9E-5103-4ECC-AA2F-C6E8B426AAE6}|Exerc\u00EDcio 7\\Exerc\u00EDcio 7.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CA8B9E-5103-4ECC-AA2F-C6E8B426AAE6}|Exerc\u00EDcio 7\\Exerc\u00EDcio 7.csproj|solutionrelative:exerc\u00EDcio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A178F99-6C02-45B3-8826-B145118670F3}|Exerc\u00EDcio 5\\Exerc\u00EDcio 5.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A178F99-6C02-45B3-8826-B145118670F3}|Exerc\u00EDcio 5\\Exerc\u00EDcio 5.csproj|solutionrelative:exerc\u00EDcio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34815DF-6EB9-43A3-B448-E6A11C383CB6}|Exerc\u00EDcio 6\\Exerc\u00EDcio 6.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34815DF-6EB9-43A3-B448-E6A11C383CB6}|Exerc\u00EDcio 6\\Exerc\u00EDcio 6.csproj|solutionrelative:exerc\u00EDcio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114391EF-7AE7-4711-BE8A-8DFDB50327FD}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114391EF-7AE7-4711-BE8A-8DFDB50327FD}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|solutionrelative:exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD6F0262-391D-4AF2-BE2A-4F410440948F}|Exerc\u00EDcio 3\\Exerc\u00EDcio 3.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 02\\exerc\u00EDcio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD6F0262-391D-4AF2-BE2A-4F410440948F}|Exerc\u00EDcio 3\\Exerc\u00EDcio 3.csproj|solutionrelative:exerc\u00EDcio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,18 +44,83 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 8\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 8\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 8\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 8\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:10:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 7\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 7\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 7\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:01:36.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 6\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 6\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 6\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:18:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 5\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 5\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 5\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:11:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T12:59:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 3\\Program.cs",
               "RelativeDocumentMoniker": "Exerc\u00EDcio 3\\Program.cs",
               "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 3\\Program.cs",
               "RelativeToolTip": "Exerc\u00EDcio 3\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T13:58:13.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 02\\Exerc\u00EDcio 2\\Program.cs",
               "RelativeDocumentMoniker": "Exerc\u00EDcio 2\\Program.cs",

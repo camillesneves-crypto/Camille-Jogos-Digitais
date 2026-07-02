@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\bin\Debug\net9.0\Exercício 7.exe
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\bin\Debug\net9.0\Exercício 7.deps.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\bin\Debug\net9.0\Exercício 7.runtimeconfig.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\bin\Debug\net9.0\Exercício 7.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\bin\Debug\net9.0\Exercício 7.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\refint\Exercício 7.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\Exercício 7.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 7\obj\Debug\net9.0\ref\Exercício 7.dll
