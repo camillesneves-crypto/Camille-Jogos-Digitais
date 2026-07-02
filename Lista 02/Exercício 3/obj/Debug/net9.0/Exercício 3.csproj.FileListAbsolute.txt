@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\bin\Debug\net9.0\Exercício 3.exe
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\bin\Debug\net9.0\Exercício 3.deps.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\bin\Debug\net9.0\Exercício 3.runtimeconfig.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\bin\Debug\net9.0\Exercício 3.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\bin\Debug\net9.0\Exercício 3.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\refint\Exercício 3.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\Exercício 3.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 02\Exercício 3\obj\Debug\net9.0\ref\Exercício 3.dll

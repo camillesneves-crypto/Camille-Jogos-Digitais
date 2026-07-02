@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\bin\Debug\net9.0\18.exe
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\bin\Debug\net9.0\18.deps.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\bin\Debug\net9.0\18.runtimeconfig.json
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\bin\Debug\net9.0\18.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\bin\Debug\net9.0\18.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\refint\18.dll
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.pdb
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\18.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Camille 2A\Lista 01\18\obj\Debug\net9.0\ref\18.dll

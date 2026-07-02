@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F64C432-4298-4A1E-867D-48E5573091D7}|20\\20.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F64C432-4298-4A1E-867D-48E5573091D7}|20\\20.csproj|solutionrelative:20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8674CDEA-5F43-46C1-B4A1-5383BAED0B18}|15\\15.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8674CDEA-5F43-46C1-B4A1-5383BAED0B18}|15\\15.csproj|solutionrelative:15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09202EC3-BE63-47E4-A0E7-CD5FA9E0B7CB}|14\\14.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09202EC3-BE63-47E4-A0E7-CD5FA9E0B7CB}|14\\14.csproj|solutionrelative:14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60A9E92-1705-440A-BA6B-972F26E4FFD4}|16\\16.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60A9E92-1705-440A-BA6B-972F26E4FFD4}|16\\16.csproj|solutionrelative:16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BB09DD-AE2B-4B72-8276-24B1147BE638}|19\\19.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BB09DD-AE2B-4B72-8276-24B1147BE638}|19\\19.csproj|solutionrelative:19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75234F47-C963-4D05-96FB-1DFF3B505074}|18\\18.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75234F47-C963-4D05-96FB-1DFF3B505074}|18\\18.csproj|solutionrelative:18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8740FD8B-32F2-45E4-A8FC-A910FE379287}|Lista 01\\Lista 01.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\lista 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8740FD8B-32F2-45E4-A8FC-A910FE379287}|Lista 01\\Lista 01.csproj|solutionrelative:lista 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B4CE39-C71A-4F6C-8592-E261CD204C98}|17\\17.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33B4CE39-C71A-4F6C-8592-E261CD204C98}|17\\17.csproj|solutionrelative:17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA588C1-0E3B-4B4E-84EA-CC3E8D7C52ED}|13\\13.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA588C1-0E3B-4B4E-84EA-CC3E8D7C52ED}|13\\13.csproj|solutionrelative:13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FE7354-6273-48C7-A2CC-9205A792972D}|3\\3.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FE7354-6273-48C7-A2CC-9205A792972D}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCB3189-7618-4899-A812-A46BB4EDFE4C}|2\\2.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCB3189-7618-4899-A812-A46BB4EDFE4C}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31017FB-83EF-41AE-9CAF-DB900B6A411B}|10\\10.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31017FB-83EF-41AE-9CAF-DB900B6A411B}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327BD9B-8A24-486F-AAD2-F8CB9548CC1B}|11\\11.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327BD9B-8A24-486F-AAD2-F8CB9548CC1B}|11\\11.csproj|solutionrelative:11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830746A-9D0B-42D3-AE12-4FCB1ECE7894}|12\\12.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830746A-9D0B-42D3-AE12-4FCB1ECE7894}|12\\12.csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2776F58-1221-4E8E-AF14-AA2D66ED3581}|7\\7.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2776F58-1221-4E8E-AF14-AA2D66ED3581}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0815E42F-E207-47BE-8BFC-30021E644458}|8\\8.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0815E42F-E207-47BE-8BFC-30021E644458}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C69246-FFFB-4384-A33A-AC6B695DD7E3}|9\\9.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C69246-FFFB-4384-A33A-AC6B695DD7E3}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AEBAD0-EA3C-4BD1-B8C6-13AFA5F36CCE}|5\\5.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AEBAD0-EA3C-4BD1-B8C6-13AFA5F36CCE}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94612-B2C5-4150-B3B8-5DB5B54FB9E4}|6\\6.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94612-B2C5-4150-B3B8-5DB5B54FB9E4}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B9A9F7-A7E9-45C9-9ACD-A56CA8BE7D16}|4\\4.csproj|c:\\users\\aluno\\desktop\\camille 2a\\lista 01\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B9A9F7-A7E9-45C9-9ACD-A56CA8BE7D16}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\Lista 01\\Program.cs",
+              "RelativeDocumentMoniker": "Lista 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\Lista 01\\Program.cs",
+              "RelativeToolTip": "Lista 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T14:07:20.172Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\17\\Program.cs",
+              "RelativeDocumentMoniker": "17\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\17\\Program.cs",
+              "RelativeToolTip": "17\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:14:32.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:26:45.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:27:45.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:28:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:29:45.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:30:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\8\\Program.cs",
+              "RelativeDocumentMoniker": "8\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\8\\Program.cs",
+              "RelativeToolTip": "8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:30:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:31:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:33:36.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\11\\Program.cs",
+              "RelativeDocumentMoniker": "11\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\11\\Program.cs",
+              "RelativeToolTip": "11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:34:33.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\12\\Program.cs",
+              "RelativeDocumentMoniker": "12\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\12\\Program.cs",
+              "RelativeToolTip": "12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:45:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\19\\Program.cs",
+              "RelativeDocumentMoniker": "19\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\19\\Program.cs",
+              "RelativeToolTip": "19\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:16:01.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\15\\Program.cs",
+              "RelativeDocumentMoniker": "15\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\15\\Program.cs",
+              "RelativeToolTip": "15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:10:23.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:24:39.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\18\\Program.cs",
+              "RelativeDocumentMoniker": "18\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\18\\Program.cs",
+              "RelativeToolTip": "18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:15:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\13\\Program.cs",
+              "RelativeDocumentMoniker": "13\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\13\\Program.cs",
+              "RelativeToolTip": "13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:55:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\16\\Program.cs",
+              "RelativeDocumentMoniker": "16\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\16\\Program.cs",
+              "RelativeToolTip": "16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:13:35.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\14\\Program.cs",
+              "RelativeDocumentMoniker": "14\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\14\\Program.cs",
+              "RelativeToolTip": "14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:09:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\20\\Program.cs",
+              "RelativeDocumentMoniker": "20\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 01\\20\\Program.cs",
+              "RelativeToolTip": "20\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T11:56:30.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

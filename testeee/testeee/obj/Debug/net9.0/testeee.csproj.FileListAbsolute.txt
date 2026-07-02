@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\bin\Debug\net9.0\testeee.exe
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\bin\Debug\net9.0\testeee.deps.json
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\bin\Debug\net9.0\testeee.runtimeconfig.json
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\bin\Debug\net9.0\testeee.dll
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\bin\Debug\net9.0\testeee.pdb
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.dll
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\refint\testeee.dll
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.pdb
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\testeee.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Camille 2A\testeee\testeee\obj\Debug\net9.0\ref\testeee.dll
