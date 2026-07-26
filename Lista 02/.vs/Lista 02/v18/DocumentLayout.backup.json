@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC16278F-E50A-4097-A7E5-7AF79AC54839}|Exerc\u00EDcio 10\\Exerc\u00EDcio 10.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC16278F-E50A-4097-A7E5-7AF79AC54839}|Exerc\u00EDcio 10\\Exerc\u00EDcio 10.csproj|solutionrelative:exerc\u00EDcio 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9119AAB2-1B37-459E-802B-F015518D3C65}|Exerc\u00EDcio 1\\Exerc\u00EDcio 1.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9119AAB2-1B37-459E-802B-F015518D3C65}|Exerc\u00EDcio 1\\Exerc\u00EDcio 1.csproj|solutionrelative:exerc\u00EDcio 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D969F836-EFA5-4514-87F2-89AD9D622154}|Exerc\u00EDcio 9\\Exerc\u00EDcio 9.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D969F836-EFA5-4514-87F2-89AD9D622154}|Exerc\u00EDcio 9\\Exerc\u00EDcio 9.csproj|solutionrelative:exerc\u00EDcio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CA8B9E-5103-4ECC-AA2F-C6E8B426AAE6}|Exerc\u00EDcio 7\\Exerc\u00EDcio 7.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CA8B9E-5103-4ECC-AA2F-C6E8B426AAE6}|Exerc\u00EDcio 7\\Exerc\u00EDcio 7.csproj|solutionrelative:exerc\u00EDcio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F503359-53D8-4A05-BD3B-998E62943920}|Lista 02\\Lista 02.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\lista 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F503359-53D8-4A05-BD3B-998E62943920}|Lista 02\\Lista 02.csproj|solutionrelative:lista 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4B4A80-3EAC-4332-825F-A777A5DFA5B4}|Exerc\u00EDcio 8\\Exerc\u00EDcio 8.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4B4A80-3EAC-4332-825F-A777A5DFA5B4}|Exerc\u00EDcio 8\\Exerc\u00EDcio 8.csproj|solutionrelative:exerc\u00EDcio 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A178F99-6C02-45B3-8826-B145118670F3}|Exerc\u00EDcio 5\\Exerc\u00EDcio 5.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A178F99-6C02-45B3-8826-B145118670F3}|Exerc\u00EDcio 5\\Exerc\u00EDcio 5.csproj|solutionrelative:exerc\u00EDcio 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34815DF-6EB9-43A3-B448-E6A11C383CB6}|Exerc\u00EDcio 6\\Exerc\u00EDcio 6.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34815DF-6EB9-43A3-B448-E6A11C383CB6}|Exerc\u00EDcio 6\\Exerc\u00EDcio 6.csproj|solutionrelative:exerc\u00EDcio 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114391EF-7AE7-4711-BE8A-8DFDB50327FD}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114391EF-7AE7-4711-BE8A-8DFDB50327FD}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|solutionrelative:exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6F0262-391D-4AF2-BE2A-4F410440948F}|Exerc\u00EDcio 3\\Exerc\u00EDcio 3.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6F0262-391D-4AF2-BE2A-4F410440948F}|Exerc\u00EDcio 3\\Exerc\u00EDcio 3.csproj|solutionrelative:exerc\u00EDcio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7B2629-CFEF-4AD9-8802-3F0BA2E754D2}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|c:\\users\\thais\\onedrive\\desktop\\camille-jogos-digitais\\lista 02\\exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7B2629-CFEF-4AD9-8802-3F0BA2E754D2}|Exerc\u00EDcio 2\\Exerc\u00EDcio 2.csproj|solutionrelative:exerc\u00EDcio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 1\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 1\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 1\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T23:56:30.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 10\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 10\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 10\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 10\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T23:24:06.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Lista 02\\Program.cs",
+              "RelativeDocumentMoniker": "Lista 02\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Lista 02\\Program.cs",
+              "RelativeToolTip": "Lista 02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T23:06:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 9\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 9\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 9\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 9\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:57:49.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 8\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 8\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 8\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 7\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 7\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 7\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 7\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 6\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 6\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 6\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 5\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 5\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 5\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 3\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 3\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 3\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\thais\\OneDrive\\Desktop\\Camille-Jogos-Digitais\\Lista 02\\Exerc\u00EDcio 2\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-25T22:10:50.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
