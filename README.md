@@ -1,1 +1,1 @@
-# Camille-Jogos-Digitais
+Listas e atividades da Camille de Jogos Digitais
