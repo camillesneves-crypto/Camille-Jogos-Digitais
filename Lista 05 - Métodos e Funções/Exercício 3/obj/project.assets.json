@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 05 - Métodos e Funções\\Exercício 3\\Exercício 3.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Camille-Jogos-Digitais\\Lista 05 - Métodos e Funções\\Exercício 3\\Exercício 3.csproj",
       "projectName": "Exercício 3",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 05 - Métodos e Funções\\Exercício 3\\Exercício 3.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\Camille-Jogos-Digitais\\Lista 05 - Métodos e Funções\\Exercício 3\\Exercício 3.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\Camille 2A\\Lista 05 - Métodos e Funções\\Exercício 3\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\Camille-Jogos-Digitais\\Lista 05 - Métodos e Funções\\Exercício 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
